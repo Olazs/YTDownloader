@@ -1,0 +1,79 @@
+{
+   "checksum": "ce7bbfc88586c29d336fb8e01df1ef3a",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13335477303552057",
+            "date_last_used": "0",
+            "guid": "4bc2ec4b-a719-4e08-921f-be040702057a",
+            "id": "9",
+            "name": "Amazon.co.uk - Online Shopping",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "http://www.amazon.com/gp/ubp/oneButton/config/redirectHome?tagbase=hpbk-ubpl&ref=aagateway-edgebook-hp"
+         }, {
+            "date_added": "13335477303552019",
+            "date_last_used": "0",
+            "guid": "8bb8d497-64fe-46b7-8f7e-d614a3b0826c",
+            "id": "8",
+            "name": "Express VPN",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://js.redirect.hp.com/jumpstation?bd=expressvpn&c=*&locale=en_us&pf=*&s=*&tp=edge"
+         }, {
+            "date_added": "13335477303551977",
+            "date_last_used": "0",
+            "guid": "4e537bf5-1166-4b99-866b-c15ab0981c7a",
+            "id": "7",
+            "name": "McAfee Security",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.mcafee.com/consumer/v/browserfav/hp.html"
+         }, {
+            "date_added": "13335477303551728",
+            "date_last_used": "0",
+            "guid": "b6e6bed7-239b-4d94-b107-51ff61ecc3aa",
+            "id": "6",
+            "name": "LastPass password manager",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://js.redirect.hp.com/jumpstation?bd=lastpass&c=222&locale=*&pf=*&tp=edge&TYPE=3"
+         } ],
+         "date_added": "13335477303534427",
+         "date_last_used": "0",
+         "date_modified": "13335477303552057",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Kedvencek sáv",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13335477303534430",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Egyéb kedvencek",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13335477303534431",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobil kedvencek",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

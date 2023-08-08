@@ -1,0 +1,16 @@
+{
+  "IsUkraineSupportMessageEnabled": false,
+  "IsAutoUpdateEnabled": true,
+  "IsDarkModeEnabled": true,
+  "IsAuthPersisted": true,
+  "ShouldInjectTags": true,
+  "ShouldSkipExistingFiles": false,
+  "FileNameTemplate": "$title",
+  "ParallelLimit": 2,
+  "LastAppVersion": null,
+  "LastAuthCookies": null,
+  "LastContainer": {
+    "Name": "mp4"
+  },
+  "LastVideoQualityPreference": 4
+}
