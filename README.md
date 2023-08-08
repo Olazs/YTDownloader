@@ -1,2 +1,2 @@
 # YTDownloader
-Minden féle-fajta videót is youtuberól letöltő cuccocska. 
+Minden féle-fajta videót és zenét is youtuberól letöltő cuccocska. 
